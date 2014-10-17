@@ -1,6 +1,7 @@
 <resources>
 
     <string name="app_name">CoolMenu</string>
-    <string name="test_button_string">This is a button</string>
+    <string name="test_button_string">Press to not feed beaver</string>
+    <string name="beaver_desc">This is a beaver</string>
 
 </resources>

@@ -3,5 +3,6 @@
     <string name="app_name">CoolMenu</string>
     <string name="test_button_string">Press to not feed beaver</string>
     <string name="beaver_desc">This is a beaver</string>
+    <string name="splash_desc">This is a face</string>
 
 </resources>
